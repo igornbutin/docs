@@ -1,7 +1,7 @@
-# docs
-Содержание:
-Bloghouse
-Bugred
+Здесь перечеслены проекты.
+# Содержание
+- [Bloghouse](#bloghouse)
+- Bugred
 
 ## Bloghouse
 https://blog-house.pro/
