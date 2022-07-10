@@ -33,7 +33,7 @@ https://blog-house.pro/
 11. Проверить восстановление пароля с существующим аккаунтом
 12. Проверить, что восстановление пароля с несуществующим аккаунтом невозможно
 
-### Реализация:
+### Реализация
 
 **Тест-кейсы:**
 https://docs.google.com/spreadsheets/d/1E9cKGQAQhurjS9xqN69dKriDIz6agZfn/edit?usp=sharing&ouid=108529313705024441144&rtpof=true&sd=true
