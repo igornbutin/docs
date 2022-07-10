@@ -37,8 +37,10 @@ https://blog-house.pro/
 
 **Тест-кейсы:**
 https://docs.google.com/spreadsheets/d/1E9cKGQAQhurjS9xqN69dKriDIz6agZfn/edit?usp=sharing&ouid=108529313705024441144&rtpof=true&sd=true
+
 ![Bloghouse  Test case](https://user-images.githubusercontent.com/89230342/178154064-d4dcb472-7041-4e5a-9b2d-9a88d3cb0e12.png)
 
 **Баг-репорт:**
 https://docs.google.com/spreadsheets/d/1SMGifHDpGiAiXUg7YyN7HNQ22EZsrw6vhaEHGKZ8j8k/edit?usp=sharing
+
 ![Bloghouse  Bug-report](https://user-images.githubusercontent.com/89230342/178154068-37c686e3-11eb-4ba7-8c26-da9b9d9dc3db.png)
