@@ -1,6 +1,6 @@
 Здесь описаны тестовые проекты. Все файлы хранятся на Google Drive и открыты к просмотру.
 # Содержание
-- [Bloghouse](#bloghouse)
+- [Bloghouse — платформа для ведения блогов](#bloghouse)
 
 ## Bloghouse — платформа для ведения блогов
 https://blog-house.pro/
