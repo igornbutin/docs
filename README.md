@@ -2,7 +2,7 @@
 # Содержание
 - [Bloghouse](#bloghouse)
 
-## Bloghouse
+## Bloghouse — платформа для ведения блогов
 https://blog-house.pro/
 ### Задача
 Написать тест-кейсы и проверить:
