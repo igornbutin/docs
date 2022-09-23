@@ -2,7 +2,7 @@
 # Содержание
 - [Bloghouse — платформа для ведения блогов](#Bloghouse)
 - [ShopBugred — тестовый интернет-магазин](#ShopBugred)
-- [ShopBugred.API — api тестового интернет-магазина](#ShopBugred.API)
+- [ShopBugred.API — api тестового интернет-магазина](#shopbugredapi)
 
 ## Bloghouse
 *Платформа для ведения блогов — https://blog-house.pro/*
