@@ -1,6 +1,7 @@
 Здесь описаны тестовые проекты. Все файлы хранятся на Google Drive и открыты к просмотру.
 # Содержание
 - [Bloghouse — платформа для ведения блогов](#Bloghouse)
+- [ShopBugred — тестовый интернет-магазин](#ShopBugred)
 
 ## Bloghouse
 *Платформа для ведения блогов — https://blog-house.pro/*
@@ -26,7 +27,28 @@ https://docs.google.com/spreadsheets/d/1E9cKGQAQhurjS9xqN69dKriDIz6agZfn/edit?us
 
 ![Bloghouse  Test case](https://user-images.githubusercontent.com/89230342/178154064-d4dcb472-7041-4e5a-9b2d-9a88d3cb0e12.png)
 
-**Баг-репорт:**
+**Баг-репорты:**
 https://docs.google.com/spreadsheets/d/1SMGifHDpGiAiXUg7YyN7HNQ22EZsrw6vhaEHGKZ8j8k/edit?usp=sharing
 
 ![Bloghouse  Bug-report](https://user-images.githubusercontent.com/89230342/178154068-37c686e3-11eb-4ba7-8c26-da9b9d9dc3db.png)
+
+
+## ShopBugred
+*Тестовая площадка в виде небольшого интернет-магазина — http://shop.bugred.ru/*
+### Задача
+Составить тестовую документацию на функциональные блоки магазина "Регистрация" и "Авторизация".
+
+### Нюансы
+- В отсутствии полного доступа к оригинальной документации, пришлось написать некоторый список требований, от которого можно отталкиваться.
+- Это тестовая площадка. Через некоторое время она стирает из базы добавленные данные. Все проверки составлялись с учетом данного факта.
+
+### Реализация
+
+**Требования:**
+https://docs.google.com/spreadsheets/d/1Rr_MCV6WiGQEtJs7wxssLVMpH-daSr2b/edit?usp=sharing&ouid=108529313705024441144&rtpof=true&sd=true
+
+**Тест-кейсы:**
+https://docs.google.com/spreadsheets/d/1fw-TAHFWN-ko4Y34qKz_3l16kNxy2vnK/edit?usp=sharing&ouid=108529313705024441144&rtpof=true&sd=true
+
+**Баг-репорты:**
+https://docs.google.com/spreadsheets/d/1ZAhNgeb7fdHBCv3s2OaEW-STKroTwaCQ_8Hz6ZgRMG4/edit?usp=sharing
