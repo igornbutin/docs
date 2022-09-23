@@ -2,7 +2,7 @@
 # Содержание
 - [Bloghouse — платформа для ведения блогов](#Bloghouse)
 - [ShopBugred — тестовый интернет-магазин](#ShopBugred)
-- [ShopBugred.API — тестовый интернет-магазин](#ShopBugred. API)
+- [ShopBugred.API — тестовый интернет-магазин](#ShopBugred.API)
 
 ## Bloghouse
 *Платформа для ведения блогов — https://blog-house.pro/*
@@ -61,7 +61,7 @@ https://docs.google.com/spreadsheets/d/1ZAhNgeb7fdHBCv3s2OaEW-STKroTwaCQ_8Hz6ZgR
 ![Bugred Баг-репорты](https://user-images.githubusercontent.com/89230342/191966868-2e7d465c-2ba3-49f2-9c2e-a5ad38be97f3.png)
 
 
-## ShopBugred. API
+## ShopBugred.API
 *Тестовая площадка в виде небольшого интернет-магазина — http://shop.bugred.ru/*
 ### Задача
 Основываясь на [документе](https://docs.google.com/document/d/1YZgmzLktexO5irB7sc_uaClyhJlbUGPX_ZtYLYEgvQI/edit?usp=sharing) составить тест-кейсы и проверить:
