@@ -45,6 +45,11 @@ https://docs.google.com/spreadsheets/d/1SMGifHDpGiAiXUg7YyN7HNQ22EZsrw6vhaEHGKZ8
 
 ### Реализация
 
+**Матрица Трассировки**
+https://docs.google.com/spreadsheets/d/14ZM3P-nvPkgYsVnmmL9FEQ68Sk7PIYmA/edit?usp=sharing&ouid=108529313705024441144&rtpof=true&sd=true
+
+![bloghouse матрица-трассировки](https://user-images.githubusercontent.com/89230342/193801708-e8fb466d-d1e9-4547-b09e-b09af87a580b.png)
+
 **Требования:**
 https://docs.google.com/spreadsheets/d/1Rr_MCV6WiGQEtJs7wxssLVMpH-daSr2b/edit?usp=sharing&ouid=108529313705024441144&rtpof=true&sd=true
 
@@ -54,11 +59,6 @@ https://docs.google.com/spreadsheets/d/1Rr_MCV6WiGQEtJs7wxssLVMpH-daSr2b/edit?us
 https://docs.google.com/spreadsheets/d/1fw-TAHFWN-ko4Y34qKz_3l16kNxy2vnK/edit?usp=sharing&ouid=108529313705024441144&rtpof=true&sd=true
 
 ![Bugred Тест-кейсы](https://user-images.githubusercontent.com/89230342/191966788-e11f0188-2016-4f98-97fa-fbea2bb628a4.png)
-
-**Баг-репорты:**
-https://docs.google.com/spreadsheets/d/1ZAhNgeb7fdHBCv3s2OaEW-STKroTwaCQ_8Hz6ZgRMG4/edit?usp=sharing
-
-![Bugred Баг-репорты](https://user-images.githubusercontent.com/89230342/191966868-2e7d465c-2ba3-49f2-9c2e-a5ad38be97f3.png)
 
 
 ## ShopBugred.API
